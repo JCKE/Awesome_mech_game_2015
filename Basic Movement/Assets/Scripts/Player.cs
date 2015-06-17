@@ -12,7 +12,7 @@ public class Player : MonoBehaviour {
 	public float currentFuel, maxFuel = 100;
 
 	public float moveSpeed = 6;
-	public float flyVelocity = 6;
+	public float flyVelocity = 15;
 	public float fuelUse = 1f;
 	public float fuelRefill = 0.5f;
 
@@ -56,12 +56,13 @@ public class Player : MonoBehaviour {
 		}
 
 		if (isFlying){
-			velocity.y = flyVelocity;
 			currentFuel -= fuelUse*Time.deltaTime;
 			if (currentFuel<=0){
 				currentFuel = 0;
-				velocity.y = gravity;
 				isFlying = false;
+			}
+			else{
+				velocity.y = flyVelocity;
 			}
 		}
 
