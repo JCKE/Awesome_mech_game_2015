@@ -2,22 +2,22 @@ Base path: /Applications/Unity/Unity.app/Contents
 Pipe name: \\.\pipe\UnityShaderCompiler-64bit-1-1950040832
 Cmd: getPlatforms
 Cmd: compileSnippet
-  api=0 type=0 insize=9591 outsize=6366 kw=UNITY_COLORSPACE_GAMMA ok=1
+  api=0 type=0 insize=982 outsize=11505 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF _NORMALMAP ok=1
 Cmd: compileSnippet
-  api=0 type=1 insize=9591 outsize=6 kw=UNITY_COLORSPACE_GAMMA ok=1
+  api=0 type=1 insize=982 outsize=6 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF _NORMALMAP ok=1
 Cmd: compileSnippet
-  api=0 type=0 insize=1482 outsize=496 kw=SOFTPARTICLES_OFF ok=1
+  api=0 type=0 insize=938 outsize=6362 kw=DIRECTIONAL SHADOWS_OFF _NORMALMAP ok=1
 Cmd: compileSnippet
-  api=0 type=1 insize=1482 outsize=6 kw=SOFTPARTICLES_OFF ok=1
+  api=0 type=1 insize=938 outsize=6 kw=DIRECTIONAL SHADOWS_OFF _NORMALMAP ok=1
 Cmd: compileSnippet
-  api=0 type=0 insize=541 outsize=1880 kw=SHADOWS_DEPTH ok=1
+  api=0 type=0 insize=982 outsize=10070 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF _DETAIL_MULX2 ok=1
 Cmd: compileSnippet
-  api=0 type=1 insize=541 outsize=6 kw=SHADOWS_DEPTH ok=1
+  api=0 type=1 insize=982 outsize=6 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF _DETAIL_MULX2 ok=1
 Cmd: compileSnippet
-  api=0 type=0 insize=6810 outsize=2287 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF ok=1
+  api=0 type=0 insize=938 outsize=5940 kw=DIRECTIONAL SHADOWS_OFF _DETAIL_MULX2 ok=1
 Cmd: compileSnippet
-  api=0 type=1 insize=6810 outsize=6 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF ok=1
+  api=0 type=1 insize=938 outsize=6 kw=DIRECTIONAL SHADOWS_OFF _DETAIL_MULX2 ok=1
 Cmd: compileSnippet
-  api=0 type=0 insize=3647 outsize=1476 kw=DIRECTIONAL ok=1
+  api=0 type=0 insize=959 outsize=394 kw= ok=1
 Cmd: compileSnippet
-  api=0 type=1 insize=3647 outsize=6 kw=DIRECTIONAL ok=1
+  api=0 type=1 insize=959 outsize=6 kw= ok=1
